@@ -48,3 +48,10 @@ figure img {
     background-position: center;
     display: block;
 }
+
+main {
+    padding: 0px;
+    margin: 0px;
+    background-color: aquamarine;
+    height: 600px;
+}
