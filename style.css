@@ -55,3 +55,21 @@ main {
     background-color: aquamarine;
     height: 600px;
 }
+
+.about-me {
+    width: 100%;
+    height: 200px;
+    background-color:antiquewhite;
+}
+
+.my-work {
+    width: 100%;
+    height: 200px;
+    background-color: antiquewhite;
+}
+
+.contact-info {
+    width: 100%;
+    height: 200px;
+    background-color: antiquewhite;
+}
